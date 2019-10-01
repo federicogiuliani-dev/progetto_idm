@@ -1,4 +1,4 @@
-# Titolo 1
+# README
 
 Questo è il _read me_, scrivete qua se serve.
 
@@ -14,5 +14,3 @@ dal progetto.
 ##### Titolo 5
 
 ###### Titolo 6
-
-####### Titolo 7 ???
