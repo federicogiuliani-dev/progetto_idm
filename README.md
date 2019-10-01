@@ -2,7 +2,7 @@
 
 Questo è il _read me_, scrivete qua se serve.
 
-## Titolo 2
+## __.gitignore__
 
 Su ___.gitignore___ mettere il nome dei file e delle cartelle che volete escludere
 dal progetto.
